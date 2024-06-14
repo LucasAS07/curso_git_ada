@@ -3,3 +3,5 @@
 # Fazendo modificações e salvando 
 
 # Git Log e Restore 
+
+* Uso do restore
