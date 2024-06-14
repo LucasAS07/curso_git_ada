@@ -6,4 +6,4 @@
 
 * Uso do restore
 * Comando git pull
-* Comando git fat
+* Comando git fetch
